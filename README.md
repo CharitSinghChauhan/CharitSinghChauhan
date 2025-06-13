@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👨‍💻 About Me<br><br>- 🔭 I’m currently working on: **A full-stack project using React, Redux, and Node.js**<br>- 🤝 I’m looking for **collaborations on open-source or full-stack React projects**<br>- 🌱 I’m currently learning: **TypeScript, System Design, and React Query**<br>- 💬 Ask me about: **React, Web Performance, Tailwind CSS, and Clean Architecture**<br>- ⚡ Fun fact: *I listen to hip-hop while coding — it keeps my code and rhythm in sync 🎧🔥*<br>
+### 👨‍💻 About Me<br><br>- 🔭 I’m currently working on: **A full-stack project using React, Redux, and Node.js**<br>- 🤝 I’m looking for **collaborations on open-source or full-stack React projects**<br>- 🌱 I’m currently learning: **TypeScript, System Design, and React Query**<br>- 💬 Ask me about: **React, Web Performance, Tailwind CSS, and Clean Architecture**<br>- 
 
 
 ### 🔝 Top Contributed Repo
